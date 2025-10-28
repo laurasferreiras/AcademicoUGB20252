@@ -31,3 +31,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+// exercicio pra casa
+// arrumar as views
+// classe departamento no slide e gerar um crud dela completo 
